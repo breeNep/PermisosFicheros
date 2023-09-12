@@ -1,0 +1,9 @@
+brendaln@brendaln-VirtualBox:~$ mkdir S
+brendaln@brendaln-VirtualBox:~$ chmod g+s S
+brendaln@brendaln-VirtualBox:~$ ls -l S
+total 0
+brendaln@brendaln-VirtualBox:~$ ls -alt S
+total 8
+drwxrwsr-x  2 brendaln brendaln 4096 sep 12 14:54 .
+drwxr-x--- 17 brendaln brendaln 4096 sep 12 14:54 ..
+brendaln@brendaln-VirtualBox:~$
