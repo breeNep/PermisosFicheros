@@ -1,0 +1,4 @@
+nano ~/.bashrc
+alias pinggoogle='ping 8.8.8.8'
+source ~/.bashrc
+sudo ln -s /bin/ping /home/brendaln/Links
